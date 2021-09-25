@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+ 
+body input{
+    margin: 20px;
+    padding: 10px;
+}
+
+.resultsDisplay{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: cursive;
+}
